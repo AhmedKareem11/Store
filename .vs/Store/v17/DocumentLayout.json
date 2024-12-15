@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\huawe\\source\\repos\\Store\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74B4C44-66F8-435B-9A22-37219B7C6B6D}|Store.Api\\Store.Api.csproj|c:\\users\\huawe\\source\\repos\\store\\store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74B4C44-66F8-435B-9A22-37219B7C6B6D}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0617D9B-7512-4851-AD30-2B4771571242}|Store.Domain\\Store.Domain.csproj|c:\\users\\huawe\\source\\repos\\store\\store.domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0617D9B-7512-4851-AD30-2B4771571242}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0617D9B-7512-4851-AD30-2B4771571242}|Store.Domain\\Store.Domain.csproj|c:\\users\\huawe\\source\\repos\\store\\store.domain\\entities\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0617D9B-7512-4851-AD30-2B4771571242}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Api\\Program.cs",
+              "RelativeToolTip": "Store.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:41:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Domain\\Entities\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Domain\\Entities\\Orders\\Order.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\Orders\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:02:38.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Domain\\Entities\\Users\\Address.cs",
+              "RelativeDocumentMoniker": "Store.Domain\\Entities\\Users\\Address.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\Store\\Store.Domain\\Entities\\Users\\Address.cs",
+              "RelativeToolTip": "Store.Domain\\Entities\\Users\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:46:08.582Z",
+              "EditorCaption": ""
             }
           ]
         }

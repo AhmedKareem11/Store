@@ -1,0 +1,16 @@
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.csproj.AssemblyReference.cache
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.AssemblyInfoInputs.cache
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.AssemblyInfo.cs
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.csproj.CoreCompileInputs.cache
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.sourcelink.json
+C:\Users\huawe\source\repos\Store\Store.Dal\bin\Debug\net9.0\Store.Dal.deps.json
+C:\Users\huawe\source\repos\Store\Store.Dal\bin\Debug\net9.0\Store.Dal.dll
+C:\Users\huawe\source\repos\Store\Store.Dal\bin\Debug\net9.0\Store.Dal.pdb
+C:\Users\huawe\source\repos\Store\Store.Dal\bin\Debug\net9.0\Store.Domain.dll
+C:\Users\huawe\source\repos\Store\Store.Dal\bin\Debug\net9.0\Store.Domain.pdb
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.csproj.Up2Date
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.dll
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\refint\Store.Dal.dll
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\Store.Dal.pdb
+C:\Users\huawe\source\repos\Store\Store.Dal\obj\Debug\net9.0\ref\Store.Dal.dll
