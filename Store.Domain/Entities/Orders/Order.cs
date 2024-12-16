@@ -1,32 +1,8 @@
-﻿using Store.Domain.Entities.Orders.Statuses;
-using Store.Domain.Entities.Users;
+﻿using Store.Domain.Entities.Users;
+using Store.Domain.Enums;
 
 namespace Store.Domain.Entities.Orders;
 
-
-
-/*
- * Order Statuses
-    Pending
-    Processing
-    Shipped
-    Delivered
-    Cancelled
-    Returned
-
- * Shipping Statuses
-    Not Shipped
-    In Transit
-    Delivered
-    Failed Delivery
-    Returned
-
- * Payment Statuses
-    Pending
-    Completed
-    Failed
-    Refunded
- */
 public class Order
 {
     public int Id { get; set; }
@@ -34,10 +10,10 @@ public class Order
     public User User { get; set; } = null!;
     public DateTime OrderDate { get; set; }
     public decimal TotalAmount { get; set; }
+    public OrderStatus Status { get; set; }
     public Shipping Shipping { get; set; } = null!;
-    public int PaymentId { get; set; }
-    public int OrderStatusId { get; set; }
-    public OrderStatus OrderStatus { get; set; } = null!;
+    public Payment Payment { get; set; } = null!;
+    public ICollection<OrderItem> OrderItems { get; set; } = null!;  
 
     public Order()
     {

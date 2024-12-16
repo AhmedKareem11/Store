@@ -6,7 +6,7 @@ public class WishList
 {
     public int Id { get; set; }
     public int UserId { get; set; }
-    public Collection<WishListItem>? Items { get; set; }
+    public ICollection<WishListItem>? Items { get; set; }
 
 }
 

@@ -32,7 +32,7 @@ public class AppDbContext : IdentityDbContext<User, IdentityRole<int>, int>
 
         builder.Ignore<IdentityUserClaim<int>>();
         builder.Ignore<IdentityRoleClaim<int>>();
-        
+    
     }
 
 
