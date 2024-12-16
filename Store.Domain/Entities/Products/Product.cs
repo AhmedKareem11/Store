@@ -18,6 +18,7 @@ public class Product
     public Category Category { get; set; } = null!;
     public DateTime CreatedAt { get; private set; }
     public DateTime? UpdatedAt { get; set; }
+    public ICollection<ProductInventory> Inventories { get; set; }
 
 
     public Product()

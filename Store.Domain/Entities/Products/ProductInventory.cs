@@ -8,8 +8,8 @@ public class ProductInventory
     public int ProductId { get; set; }
     public Product? Product { get; set; }
     public bool IsActive { get; set; }
-    public decimal Price { get; set; }
     public bool IsDigital { get; set; }
+    public decimal Price { get; set; }
     public float Weight { get; set; }
     public int UnitsInStock { get; set; }   
     public DateTime CreatedAt { get; private set; }
@@ -21,6 +21,7 @@ public class ProductInventory
     public ProductInventory()
     {
         IsActive = true;
+        IsDigital = false;
         CreatedAt = DateTime.UtcNow;
     }
 }

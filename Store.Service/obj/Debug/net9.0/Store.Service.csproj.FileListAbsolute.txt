@@ -1,0 +1,12 @@
+C:\Users\huawe\source\repos\Store\Store.Service\bin\Debug\net9.0\Store.Service.deps.json
+C:\Users\huawe\source\repos\Store\Store.Service\bin\Debug\net9.0\Store.Service.dll
+C:\Users\huawe\source\repos\Store\Store.Service\bin\Debug\net9.0\Store.Service.pdb
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.AssemblyInfoInputs.cache
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.AssemblyInfo.cs
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.csproj.CoreCompileInputs.cache
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.sourcelink.json
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.dll
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\refint\Store.Service.dll
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\Store.Service.pdb
+C:\Users\huawe\source\repos\Store\Store.Service\obj\Debug\net9.0\ref\Store.Service.dll
